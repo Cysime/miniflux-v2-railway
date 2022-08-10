@@ -1,1 +1,2 @@
 FROM docker.io/miniflux/miniflux:2.0.37
+ARG EnvironmentVariable
